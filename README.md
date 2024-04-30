@@ -2,6 +2,10 @@
 
 Welcome to the Classic Motorcycles website! This website is built using Astro, a modern static site builder for building faster websites.
 
+![astro1](https://github.com/fahad0samara/astro-Motorcycles/assets/90055525/197d904a-3b55-4230-89f2-f53139b58f9c)
+
+
+
 ## Overview
 
 This website is dedicated to classic motorcycles and everything related to them. From the history of legendary motorcycles to custom builds, workshops, and motorcycle fashion, we cover it all.
