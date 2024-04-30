@@ -1,54 +1,48 @@
-# Astro Starter Kit: Basics
+# Classic Motorcycles Website
 
-```sh
-npm create astro@latest -- --template basics
-```
+Welcome to the Classic Motorcycles website! This website is built using Astro, a modern static site builder for building faster websites.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Overview
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This website is dedicated to classic motorcycles and everything related to them. From the history of legendary motorcycles to custom builds, workshops, and motorcycle fashion, we cover it all.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Features
 
-## 🚀 Project Structure
+- **Our Team**: Meet the dedicated and passionate individuals who make our workshop a home for motorcycle enthusiasts.
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Workshops**: Explore our workshops where craftsmanship meets creativity, and every motorcycle tells a story.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- **Custom Builds**: Discover our custom builds, where dreams become reality and every ride is a work of art.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Services & Repairs**: Trust our experienced technicians to keep your motorcycle running smoothly and looking pristine.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **Latest Blog**: Stay up-to-date with the latest news, stories, and trends in the world of classic motorcycles.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Latest Blog Posts
 
-## 🧞 Commands
+### [The History of Legendary Motorcycles](#)
+Embark on a journey through time as we explore the history of legendary motorcycles that have left an indelible mark on the world of two-wheelers. From the iconic Harley-Davidson to the legendary Indian Scout, discover the stories behind these timeless machines.
 
-All commands are run from the root of the project, from a terminal:
+### [The Magic of Classic Bike Restoration](#)
+Join us on a journey of restoration as we breathe new life into vintage motorcycles. From the meticulous process of dismantling and rebuilding to the final unveiling of the restored beauty, experience the magic of classic bike restoration.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### [Rev Up Your Style with Classic Motorcycle Fashion](#)
+Discover the latest trends in classic motorcycle fashion and gear as we showcase the best in vintage-inspired clothing, helmets, and accessories. From retro leather jackets to timeless accessories, elevate your style with our curated collection.
 
-## 👀 Want to learn more?
+## Technologies Used
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- Astro
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+1. Clone this repository.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
+4. Open http://localhost:3000 in your browser.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
